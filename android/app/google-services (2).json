@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521646143115",
+    "project_id": "filemanagement-4efdd",
+    "storage_bucket": "filemanagement-4efdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521646143115:android:86f23bcec8ad139dd0868e",
+        "android_client_info": {
+          "package_name": "com.example.file_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtl1zb35nNHiPb0W6AdOeYRvRE-d2KQRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
